@@ -2,7 +2,7 @@
 name: Refactor template
 about: 코드의 기능은 그대로 유지하면서 유지보수성과 가독성을 높이기 위한 리팩토링에 힘을 써주세요!
 title: "🔄 [REFACTOR]"
-labels: refactor
+labels: 🔄 refactor
 assignees: ''
 
 ---
